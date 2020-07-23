@@ -611,14 +611,29 @@ margin-right: 0px;
 margin-bottom: 0px;
 }
 
+.client-item:hover,
+.client-item:focus{
+border-color: #2196F3;
+
+}
+
 /*SVG*/
 .feature-link-svg {
 width: 70px;
 height: 70px;
 margin-bottom: 10px;
+display: flex;
+margin-left: auto;
+margin-right: auto;
+}
+
+.feature-link {
+display: flex;
 background-color: #F5F4FA;
 border-radius: 4px;
-background-size: 270px 120px;
+padding-top: 25px;
+padding-bottom: 25px;
+margin-bottom: 30px;
 }
 
 .address-link-svg {
