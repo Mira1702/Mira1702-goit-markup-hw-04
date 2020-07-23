@@ -623,7 +623,8 @@ background-size: 270px 120px;
 
 .address-link-svg {
 width: 16px;
-height: 11px;   
+height: 11px; 
+fill: #757575;  
 }
     
 .social-link-svg {
