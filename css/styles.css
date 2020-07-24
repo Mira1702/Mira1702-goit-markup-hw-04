@@ -50,7 +50,6 @@ letter-spacing: 0.02em;
 color: #212121;   
 padding-top: 32px;   
 padding-bottom: 32px;
-
 }
 
 .navigation-mail,
@@ -491,7 +490,6 @@ text-align: center;
 
 .client-img {
 display: block;
-fill: #AFB1B8;;
 }
 
 
@@ -510,6 +508,7 @@ box-sizing: border-box;
 border-radius: 4px;
 justify-content: center;
 align-items: center;
+fill: #AFB1B8;
 }
 
 .conteiner-footer {
@@ -619,7 +618,7 @@ margin-bottom: 0px;
 .client-item:hover,
 .client-item:focus{
 border-color: #2196F3;
-color: #2196F3;
+fill: #2196F3;
 }
 
 /*SVG*/
